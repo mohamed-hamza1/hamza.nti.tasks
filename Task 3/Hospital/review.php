@@ -1,7 +1,7 @@
 <?php
 $title = 'Review';
 include 'layouts/header.php';
-include 'middleware/auth.php';
+// include 'middleware/auth.php';
 
 
 
